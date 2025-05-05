@@ -1,7 +1,8 @@
 # Clash-Zenith  
 [English](/README.md?lang=en) | 
 [中文](/CN-README.md) | 
-[日本語](暂不支持)
+[日本語](暂不支持)|
+
 Nyaa~! This is a brand-new evolution from Clash Verge, bestowed with the super awesome name "Clash Zenith" desu~☆  
 (Clash-Zenith also uses the Mihomo kernel component)  
 Mihomo link: [https://github.com/MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo)  
